@@ -9,6 +9,8 @@ Hierarchy:
   - Facts.html
   - Guide.html
   - Thanks.html
+  - Style(folder)
+    - Style.css
   - Images(folder)
     - black_white.png
     - LEVEL3png.
