@@ -11,3 +11,18 @@ Hierarchy:
   - Thanks.html
   - Images(folder)
     - black_white.png
+    - LEVEL3png.
+    - bag.png
+    - drive.png
+    - eat.png
+    - level1.png
+    - level2.png
+    - level4.png
+    - lights.png
+    - local.png
+    - recycle.png
+    - refill.png
+    - saving.png
+    - shower.png
+    - unplug.png
+    - zero.png
