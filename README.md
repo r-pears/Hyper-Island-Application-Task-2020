@@ -10,4 +10,4 @@ Hierarchy:
   - Guide.html
   - Thanks.html
   - Images(folder)
-    - blackandwhite.png
+    - black_white.png
