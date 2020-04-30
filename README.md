@@ -9,9 +9,59 @@ Hierarchy:
   - Facts.html
   - Guide.html
   - Thanks.html
-  - Style(folder)
+  - Style (folder)
     - Style.css
-  - Images(folder)
+  - Boy (folder)
+    - aBoy.html
+    - accept.html
+    - anIncident.html
+    - boy1.html
+    - bSchool.html
+    - choice1.html
+    - choice2.html
+    - con.html
+    - cont.html
+    - cont2.html
+    - deny.html
+    - end.html
+    - fresh.html
+    - inSchool.html
+    - son.html
+    - son2.html
+    - weddingWithC.html
+    - weddingWithoutC.html
+  - Girl (folder)
+    - accept.html
+    - aChoice.html
+    - aGirl.html
+    - allOr.html
+    - aWedding.html
+    - aWedding2.html
+    - baby.html
+    - boySchool.html
+    - dream.html
+    - end.html
+    - escape.html
+    - escape2.html
+    - girl1.html
+    - girlschool.html
+    - hideout.html
+    - hideout2.html
+    - inTheEnd.html
+    - inTheEnd2.html
+    - itsTime.html
+    - itsTime2.html
+    - keep.html
+    - life.html
+    - new.html
+    - new2.html
+    - noSchool.html
+    - runAway.html
+    - runAway2.html
+    - sell.html
+    - weddingDay.html
+    - weddingDay2.html
+  - Images (folder)
     - black_white.png
     - LEVEL3png.
     - bag.png
